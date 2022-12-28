@@ -7,3 +7,6 @@ draft: false
 Merry Christmas!
 Happy New Year!
 
+![text](https://img.freepik.com/free-vector/merry-christmas-happy-new-year-background_52683-26948.jpg?w=2000 "Christmas")
+
+
